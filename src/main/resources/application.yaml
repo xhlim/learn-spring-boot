@@ -1,2 +1,4 @@
-server:
-  port: 8001
+# spring 配置
+spring:
+  profiles:
+    active: dev
